@@ -22,3 +22,12 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+### Deploying SSH 
+⚠ WARNING: Please only use this for developer instances, main builds see a different route. ⚠
+<br />
+Esure proper version, run ``npm i`` then ``npm run serve -- --port 3000
+``
+
+If you're having issues, contact someone whom knows what they're doing.
