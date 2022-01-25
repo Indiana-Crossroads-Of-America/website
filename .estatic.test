@@ -1,0 +1,14 @@
+//Not for use in primary builds, BYPASS HOST CHECK
+
+module.exports = {
+    devServer: {
+        port: 80
+        disableHostCheck: true
+
+    }
+}
+
+
+
+
+// Need a way to define HEADER safely.
