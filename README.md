@@ -28,6 +28,13 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
+# Proper NODE Versioning.
+1st run: ``npm cache clean -f``
+2nd run: ``npm install -g n``
+3rd run: ``sudo n stable``
+4th run: ``sudo reboot``
+Lastly run: node --version
+
 
 ### Deploying SSH 
 ⚠ WARNING: Please only use this for developer instances, main builds see a different route. ⚠
