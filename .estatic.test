@@ -2,8 +2,8 @@
 
 module.exports = {
     devServer: {
-        port: 80
-        disableHostCheck: true
+        port: 80 // Defines Port, still use force command for time being
+        disableHostCheck: true // Bypass host check for CF.
 
     }
 }
