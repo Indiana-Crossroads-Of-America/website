@@ -1,5 +1,6 @@
 module.exports = {
     devServer: {
-        port:   //Define Port
+        disableHostCheck: true //Temporary bypass for development, will need a valid header before we can launch.
+
     }
 }
