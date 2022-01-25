@@ -1,5 +1,8 @@
 # indiana-crossroads-of-america
 
+###### Note: Demo installs can be ran locally, or via the demo VPS.
+
+
 ## Project setup
 ```
 npm install
