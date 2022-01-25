@@ -10,6 +10,11 @@ npm install
 npm run serve
 ```
 
+### Change the port
+```
+sudo PORT=80 npx vue-cli-service serve --port 80
+```
+
 ### Compiles and minifies for production
 ```
 npm run build
