@@ -11,6 +11,7 @@
     "core-js": "^3.6.5",
     "glob-parent": "^6.0.2",
     "node-forge": "^1.2.1",
+    "postcss": "^8.4.5",
     "vue": "^3.0.0",
     "vue-router": "^4.0.0-0"
   },
