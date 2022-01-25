@@ -28,7 +28,7 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-# Proper NODE Versioning.
+### Proper NODE Versioning.
 1st run: ``npm cache clean -f``
 2nd run: ``npm install -g n``
 3rd run: ``sudo n stable``
@@ -43,3 +43,7 @@ Esure proper version, run ``npm i`` then ``npm run serve -- --port 3000
 ``
 
 If you're having issues, contact someone whom knows what they're doing.
+
+
+##### Having Issues with PIDs?
+Run `` ps -aux`` and look for VUEJS-CLI server instances and use  ``sudo kill PID`` to end them.
