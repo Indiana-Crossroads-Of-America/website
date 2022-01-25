@@ -10,7 +10,7 @@ npm install
 npm run serve
 ```
 
-### Change the port
+### Change the port (May cause longer building period)
 ```
 sudo PORT=80 npx vue-cli-service serve --port 80
 ```
