@@ -1,0 +1,14 @@
+//Not for use in primary builds, BYPASS HOST CHECK
+
+module.exports = {
+    devServer: {
+        port: 80 // Defines Port, still use force command for time being
+        disableHostCheck: true // Bypass host check for CF.
+
+    }
+}
+
+
+
+
+// Need a way to define HEADER safely.
