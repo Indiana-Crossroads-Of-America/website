@@ -1,5 +1,7 @@
-# indiana-crossroads-of-america
+#### I: COA Development READ
 
+
+# This README containts CRITICAL information, malformed commands may result in broken instances.
 ###### Note: Demo installs can be ran locally, or via the demo VPS.
 
 
@@ -24,10 +26,12 @@ npm install
 npm run serve
 ``
 
-### How to start! *These force bind to 80, check your code for information on different binds*
-* M1: ``` sudo PORT=80 npx vue-cli-service serve --port 80 ```
-* M2: ```sudo npm run serve```
-* M3: ```serve -s dist -l 80``` REQUIRES: -g serve
+### How to start!
+<br/>
+These force bind to 80, check your code for information on different binds
+-M1: ``sudo PORT=80 npx vue-cli-service serve --port 80``
+-M2: ``sudo npm run serve``
+-M3: ``serve -s dist -l 80``` REQUIRES: -g serve
 
 ### Compiles and minifies for production
 
@@ -57,8 +61,7 @@ Lastly run: node --version
 ### Deploying SSH 
 ⚠ WARNING: Please only use this for developer instances, main builds see a different route. ⚠
 <br />
-Esure proper version, run ``npm i`` then ``npm run serve -- --port 3000
-``
+Esure proper version, run ``npm i`` then ``npm run serve -- --port 3000``
 
 If you're having issues, contact someone whom knows what they're doing.
 
