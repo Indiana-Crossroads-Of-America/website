@@ -71,12 +71,13 @@ Lastly run: node --version
 Esure proper version, run ``npm i`` then ``npm run serve -- --port 3000``
 
 If you're having issues, contact someone whom knows what they're doing.
+
 Developers:
 
-[Ross](ross@indianacrossroadsofamerica.com)
+[Ross](ross@indianacrossroadsofamerica.com) ``1st Contact``
 
-[Jules](julesbehere@indianacrossroadsofamerica.com)
+[Jules](julesbehere@indianacrossroadsofamerica.com) ``2nd Contact``
 
-
-##### Having Issues with PIDs?
+##### Having Issues with non-bindable ports?
 Run `` ps -aux`` and look for VUEJS-CLI server instances and use  ``sudo kill PID`` to end them.
+If P80 or the defined port is busy with another PID, it will bind to the next open port.
