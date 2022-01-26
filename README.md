@@ -2,6 +2,11 @@
 
 ###### Note: Demo installs can be ran locally, or via the demo VPS.
 
+## Dependencies
+
+```
+npm install -g serve
+```
 
 ## Project setup
 
@@ -24,6 +29,7 @@ npm run serve
 
 ```
 npm run build
+serve -s dist -l 80
 ```
 
 ### Lints and fixes files
