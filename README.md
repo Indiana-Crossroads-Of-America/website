@@ -1,3 +1,4 @@
+
 #### I: COA Development READ
 
 
@@ -27,11 +28,12 @@ npm run serve
 ``
 
 ### How to start!
-<br/>
-These force bind to 80, check your code for information on different binds
+
 -M1: ``sudo PORT=80 npx vue-cli-service serve --port 80``
+
 -M2: ``sudo npm run serve``
--M3: ``serve -s dist -l 80``` REQUIRES: -g serve
+
+-M3: ``serve -s dist -l 80`` REQUIRES: -g serve
 
 ### Compiles and minifies for production
 
