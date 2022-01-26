@@ -2,41 +2,45 @@
 
 ###### Note: Demo installs can be ran locally, or via the demo VPS.
 
+
 ## Dependencies
 
-```
+``
 npm install -g serve
-```
-
+``
+<br/>
+``
+npm i
+``
 ## Project setup
 
-```
+``
 npm install
-If you want to change the port try npm run serve -- --port 3000
-```
+``
 
 ### Compiles and hot-reloads for development
 
-```
+``
 npm run serve
-```
+``
 
-### Change the port (May cause longer building period)
+### How to start! *These force bind to 80, check your code for information on different binds*
 * M1: ``` sudo PORT=80 npx vue-cli-service serve --port 80 ```
 * M2: ```sudo npm run serve```
+* M3: ```serve -s dist -l 80``` REQUIRES: -g serve
 
 ### Compiles and minifies for production
 
-```
+``
 npm run build
 serve -s dist -l 80
-```
+``
 
 ### Lints and fixes files
 
-```
+``
 npm run lint
-```
+``
 
 ### Customize configuration
 
