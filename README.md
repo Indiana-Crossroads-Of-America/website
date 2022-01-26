@@ -17,9 +17,8 @@ npm run serve
 ```
 
 ### Change the port (May cause longer building period)
-```
-sudo PORT=80 npx vue-cli-service serve --port 80
-```
+* M1: ``` sudo PORT=80 npx vue-cli-service serve --port 80 ```
+* M2: ```sudo npm run serve```
 
 ### Compiles and minifies for production
 
