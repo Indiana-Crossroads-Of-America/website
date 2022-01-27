@@ -1,83 +1,12 @@
+# I:COA Development Repository.
 
-#### I: COA Development READ
+I: COA is developed using a lightweight framework that's able to run universally anywhere that has a CLI-interface.
 
-
-# This README containts CRITICAL information, malformed commands may result in broken instances.
-###### Note: Demo installs can be ran locally, or via the demo VPS.
-
-
-## Dependencies
-
-``
-npm install -g serve
-``
-<br/>
-``
-npm i
-``
-## Project setup
-Go to your directory that's empty, git clone [This Repo](https://github.com/Indiana-Crossroads-Of-America/indiana-crossroads-of-america.git) /dir/  ``<LOCATION``
-
-  ``
-npm install
-``
-
-### Compiles and hot-reloads for development
-
-``
-npm run serve
-``
-
-### How to start!
-
--M1: ``sudo PORT=80 npx vue-cli-service serve --port 80``
-
--M2: ``sudo npm run serve``
-
--M3: ``serve -s dist -l 80`` < REQUIRES: -g serve, and a dist dir with built program.
-
-### Compiles and minifies for production
-
-``
-npm run build
-serve -s dist -l 80
-``
-
-### Lints and fixes files
-
-``
-npm run lint
-``
-
-### Customize configuration
-
-See [Configuration Reference](https://cli.vuejs.org/config/).
-
-### Ensure you're using the right NODE Version
-1st run: ``npm cache clean -f``
-
-2nd run: ``npm install -g n``
-
-3rd run: ``sudo n stable``
-
-4th run: ``sudo reboot`` < use PC restart if out of ubuntu-os.
-
-Lastly run: node --version
+How we run?
+* NodeJS
+* NPM
+* Virtual Machines
 
 
-### Deploying SSH 
-⚠ WARNING: Please only use this for developer instances, main builds see a different way out. ⚠
-<br />
-Esure proper version, run ``npm i`` then ``npm run serve -- --port 3000``
 
-If you're having issues, contact someone whom knows what they're doing.
-
-Developers:
-
-[Ross](ross@indianacrossroadsofamerica.com) ``1st Contact``
-
-[Jules](julesbehere@indianacrossroadsofamerica.com) ``2nd Contact``
-
-##### Having Issues with non-bindable ports?
-Run `` ps -aux`` and look for VUEJS-CLI server instances and use  ``sudo kill PID`` to end them.
-If P80 or the defined port is busy with another PID, it will bind to the next open port.
+> Looking for [How to Build?](https://github.com/Indiana-Crossroads-Of-America/indiana-crossroads-of-america/wiki)
