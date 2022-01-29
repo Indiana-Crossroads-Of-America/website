@@ -1,5 +1,13 @@
 <template>
-  <div class="header"></div>
+  <div class="outer-header">
+    <div class="header">
+      <div class="header-side">
+        <router-link to="/">Home</router-link> |
+        <router-link to="/staff">Staff List</router-link> |
+        <router-link to="/about">About</router-link>
+      </div>
+    </div>
+  </div>
 </template>
 <script>
 export default {
@@ -7,3 +15,19 @@ export default {
   props: {},
 };
 </script>
+
+<style>
+.outer-header {
+  padding: 0px 10px 10px;
+}
+
+.header {
+  overflow: hidden;
+  background-color: #dc143c;
+  padding: 15px;
+}
+
+.header-side {
+  float: left;
+}
+</style>
