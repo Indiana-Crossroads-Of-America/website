@@ -16,6 +16,10 @@
   color: #2c3e50;
 }
 
+body {
+  background-color: #5bbbcb;
+}
+
 #nav {
   padding: 30px;
 }
