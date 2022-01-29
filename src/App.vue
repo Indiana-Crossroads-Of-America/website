@@ -20,9 +20,9 @@ body {
   background-color: #5bbbcb;
 }
 
-#nav {
-  /* padding: 30px; */
-}
+/* #nav { 
+ padding: 30px; 
+} */
 
 #nav a {
   font-weight: bold;
