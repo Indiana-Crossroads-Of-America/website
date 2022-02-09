@@ -30,4 +30,13 @@ export default {
 .header-side {
   float: left;
 }
+
+.header a {
+  font-weight: bold;
+  color: #2c3e50;
+}
+
+.header a.router-link-exact-active {
+  color: #42b983;
+}
 </style>

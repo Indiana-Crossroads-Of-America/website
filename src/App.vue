@@ -3,9 +3,20 @@
     <!-- <router-link to="/">Home</router-link> |
     <router-link to="/staff">Staff List</router-link> |
     <router-link to="/about">About</router-link> -->
+    <Header></Header>
   </div>
   <router-view />
 </template>
+
+<script>
+import Header from "@/components/Header.vue";
+
+export default {
+  components: {
+    Header,
+  },
+};
+</script>
 
 <style>
 #app {
@@ -24,12 +35,26 @@ body {
  padding: 30px; 
 } */
 
-#nav a {
+.outer-header {
+  padding: 0px 10px 10px;
+}
+
+.header {
+  overflow: hidden;
+  background-color: #dc143c;
+  padding: 15px;
+}
+
+.header-side {
+  float: left;
+}
+
+.header a {
   font-weight: bold;
   color: #2c3e50;
 }
 
-#nav a.router-link-exact-active {
+.header a.router-link-exact-active {
   color: #42b983;
 }
 </style>
