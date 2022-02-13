@@ -1,5 +1,4 @@
-sudo rm -r /var/www/eu-downloads.rlmtech.xyz/html/listing/static/icoa/latest.zip
-
+cd /var/www/eu-downloads.rlmtech.xyz/html/listing/static/icoa
 
 read -n 1 -r -s -p $'Press enter to continue...\n'
 
