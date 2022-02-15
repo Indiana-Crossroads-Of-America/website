@@ -7,12 +7,13 @@
   <router-view />
 </template>
 
-// Defines title (Global) 
+// Defines title (Global) & Channel Information.
 <script>
     export default {
         name: 'app',
         created () {
             document.title = "I:COA - Community Site";
+            console.log("I:COA NGINX \n Channel: Public (Served via http://127.0.0.1/dist) \n Developed by: Julian & Ross https://rlmtech.xyz")
         }
     }
 </script>
