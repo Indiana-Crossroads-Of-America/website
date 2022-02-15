@@ -1,15 +1,7 @@
 <template>
   <Header></Header>
-  <div class="home">Welcome to the Indiana Crossroads of America website!</div>
+  <div class="home"><h1>Welcome to the Indiana Crossroads of America website!</h1></div>
+    <p>&#x26A0;This site is limited in functionality and is under construction. &#9888;</p>
+
 </template>
 
-<script>
-import Header from "@/components/Header.vue";
-
-export default {
-  name: "Home",
-  components: {
-    Header,
-  },
-};
-</script>
