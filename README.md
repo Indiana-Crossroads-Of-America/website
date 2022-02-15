@@ -1,3 +1,4 @@
+![IMG](https://github.com/Indiana-Crossroads-Of-America/website/actions/workflows/node.js.yml/badge.svg)
 # I:COA Development Repository.
 
 I: COA is developed using a lightweight framework that's able to run universally anywhere that has a CLI-interface *(Even NGINX) ;)*.
