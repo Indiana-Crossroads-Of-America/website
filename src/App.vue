@@ -7,6 +7,16 @@
   <router-view />
 </template>
 
+// Defines title (Global) 
+<script>
+    export default {
+        name: 'app',
+        created () {
+            document.title = "I:COA - Community Site";
+        }
+    }
+</script>
+
 <style>
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
