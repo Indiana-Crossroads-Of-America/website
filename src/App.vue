@@ -10,11 +10,11 @@
     <Header></Header>
   </div>
 
-  <div class="footer">
+  <!-- <div class="footer">
     <a href="https://github.com/Indiana-Crossroads-Of-America/website"
       >I:COA Community</a
     >
-  </div>
+  </div> -->
   <router-view />
 </template>
 
