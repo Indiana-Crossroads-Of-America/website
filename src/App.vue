@@ -6,21 +6,15 @@
   </div> -->
 
   <!-- Begin Navbar -->
-  <div id="nav">
-    <router-link to="/">Home</router-link> |
-    <router-link to="/staff">Staff List</router-link> |
-    <router-link to="/about">About</router-link> -->
+  <div id="header">
     <Header></Header>
   </div>
 
-  <!-- <div class="footer">
-    <p>
-      I:COA Community |
-      <a href="https://github.com/Indiana-Crossroads-Of-America/website"
-        >We're <u>Open Source</u></a
-      >
-    </p>
-  </div> -->
+  <div class="footer">
+    <a href="https://github.com/Indiana-Crossroads-Of-America/website"
+      >I:COA Community</a
+    >
+  </div>
   <router-view />
 </template>
 
@@ -42,7 +36,7 @@ export default {
 </script>
 
 <!-- ALERT CSS -->
-<style scoped>
+<style>
 .alert {
   padding: 10px;
   background-color: #f44336;

@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    Welcome to the Indiana Crossroads of America website!
+    <h1>Welcome to the Indiana Crossroads of America website!</h1>
     <!-- <p>
       &#x26A0;This site is limited in functionality and is under construction.
       &#9888;
