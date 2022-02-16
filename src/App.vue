@@ -1,17 +1,14 @@
 <template>
-  <div class="alert">
+  <!--<div class="alert">
     <strong>Notice:</strong> Our website is actively being developed. Should you
     see broke code visit our
     <a href="#"><font-awesome-icon icon="fa-brands fa-github" /> Github</a>
-  </div>
+  </div>-->
 
   <!-- Begin Navbar -->
   <div id="nav">
-    <router-link to="/">Home</router-link> |
-    <router-link to="/staff">Staff List</router-link> |
-    <router-link to="/about">About</router-link> -->
     <Header></Header>
-  </div>
+    </div>
 
   <div class="footer">
     <p>
@@ -97,7 +94,7 @@ footer {
 }
 
 body {
-  background-color: white;
+  background-color: #4e5d94;
 }
 
 /* #nav { 

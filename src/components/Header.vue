@@ -4,7 +4,8 @@
       <div class="header-side">
         <router-link to="/">Home</router-link> |
         <router-link to="/staff">Staff List</router-link> |
-        <router-link to="/about">About</router-link>
+        <router-link to="/about">About</router-link> |
+        <router-link to="/events">Events</router-link>
       </div>
     </div>
   </div>
