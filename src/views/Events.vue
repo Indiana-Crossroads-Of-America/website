@@ -1,10 +1,21 @@
 <template>
- <div class="alert">
-  <strong>Notice:</strong> Due to COVID-19, face masks <u>may be</u> required. Stay home if you've come in contact with COVID-19 AND/OR are experiencing symptons of COVID-19.
-</div>
- <h1>Community Events</h1>
- <p style="border:5px; border-style:solid; border-color:#FF0000; padding: 0em;">EVENT NAME: <b>TEST.</b> <br />Location: Monument Circle, Indianapolis IN<br>This event is not real but a test outline on declaring the syle.</p>
- 
+  <div class="alert">
+    <strong>Notice:</strong> Due to COVID-19, face masks <u>may be</u> required.
+    Stay home if you've come in contact with COVID-19 AND/OR are experiencing
+    symptons of COVID-19.
+  </div>
+  <h1>Community Events</h1>
+  <p
+    style="
+      border: 5px;
+      border-style: solid;
+      border-color: #ff0000;
+      padding: 0em;
+    "
+  >
+    EVENT NAME: <b>TEST.</b> <br />Location: Monument Circle, Indianapolis IN<br />This
+    event is not real but a test outline on declaring the syle.
+  </p>
 </template>
 
 <style>
