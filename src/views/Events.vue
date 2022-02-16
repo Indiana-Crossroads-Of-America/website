@@ -7,8 +7,8 @@
   <h1>Community Events</h1>
 
   <p>Sorry, there are no events currently. Check back later.</p>
-  1If you'd like to share an event, contact
-  <a href="mailto:ross@indianacrossroadsofamerica.com">Ross</a>
+  <p>If you'd like to share an event, contact
+  <a href="mailto:ross@indianacrossroadsofamerica.com">Ross</a></p>
 </template>
 
 <style>
