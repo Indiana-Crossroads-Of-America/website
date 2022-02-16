@@ -1,9 +1,12 @@
 <template>
   <div class="stafflist">
     <h1>{{ msg }}</h1>
-    <label>Odewren</label><br />
-    <label>Peepee Actual</label><br />
-    <label>JulesBeHere</label>
+    <label>JulesBeHere (Administrator)</label><br />
+    <label>ScarryGargoyle</label><br />
+    <label>PeePee Actual</label><br />
+    <h1>Advisors</h1>
+   <label>Ross - Network Advisor</label>
+   
   </div>
 </template>
 <script>
