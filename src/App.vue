@@ -91,23 +91,4 @@ body {
 /* #nav {
  padding: 30px;
 } */
-
-.outer-header {
-  padding: 0px 10px 10px;
-}
-
-.header {
-  overflow: hidden;
-  background-color: #dc143c;
-  padding: 15px;
-}
-
-.header a {
-  font-weight: bold;
-  color: #2c3e50;
-}
-
-.header a.router-link-exact-active {
-  color: #42b983;
-}
 </style>
