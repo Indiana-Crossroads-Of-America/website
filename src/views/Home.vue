@@ -1,7 +1,7 @@
 <template>
   <div class="home">
-    <h1>Welcome to Indiana & Our Community.</h1>
-    <p>We're a community dedicated to equality, fun, wholness, and fun.</p>
+    <h1>Welcome to Our Community.</h1>
+    <p>We're a community dedicated to equality, fun, wholeness, and fun.</p>
     <p>We enjoy bringing others together for <a href="/events">events</a></p>
     <p
       style="
