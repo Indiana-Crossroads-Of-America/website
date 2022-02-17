@@ -30,7 +30,7 @@ export default {
 }
 
 .header-side {
-  float: left;
+  float: center;
 }
 
 .header a {
