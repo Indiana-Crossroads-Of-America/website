@@ -1,4 +1,11 @@
 <template>
+  <link
+    rel="stylesheet"
+    href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
+    integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf"
+    crossorigin="anonymous"
+  />
+
   <!-- <div class="alert">
     <strong>Notice:</strong> Our website is actively being developed. Should you
     see broke code visit our
@@ -10,11 +17,6 @@
     <Header></Header>
   </div>
 
-  <!-- <div class="footer">
-    <a href="https://github.com/Indiana-Crossroads-Of-America/website"
-      >I:COA Community</a
-    >
-  </div> -->
   <router-view />
 </template>
 
@@ -26,12 +28,12 @@ export default {
   components: {
     Header,
   },
-  // created() {
-  //   document.title = "I:COA - Community Site";
-  //   console.log(
-  //     "I:COA NGINX \n Channel: Public (Served via http://indianacrossroadsofamerica.com/dist) \n Developed by: Julian & Ross https://rlmtech.xyz"
-  //   );
-  // },
+  created() {
+    document.title = "I:COA - Community Site";
+    console.log(
+      "I:COA NGINX \n Channel: Public (Served via http://indianacrossroadsofamerica.com/dist) \n Developed by: Julian & Ross https://rlmtech.xyz"
+    );
+  },
 };
 </script>
 

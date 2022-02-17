@@ -25,7 +25,7 @@
     ><br />
     <h1>
       <hr />
-      Server Staff
+      Disocrd Community Staff
     </h1>
     <pre><font size="3">&#9876; Community Rule Enforcement &#9876;</font></pre>
     <label
@@ -63,6 +63,7 @@
       <b>Tiko Thunder#1138 </b> <br />
       <font size="2">Game Server Staff</font></label
     ><br />
+    <hr />
     <h1>
       <hr />
       DevOps Team
