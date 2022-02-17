@@ -100,10 +100,6 @@ body {
   padding: 15px;
 }
 
-.header-side {
-  float: left;
-}
-
 .header a {
   font-weight: bold;
   color: #2c3e50;
