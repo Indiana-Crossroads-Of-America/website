@@ -16,12 +16,6 @@
       padding: 3em;
     "
   >
-    <img
-      src="https://informedinfrastructure.com/wp-content/uploads/2019/10/NineStarConnect_Color_RGB_WEB-1024x305-e1570629624543.png"
-      alt="NSC"
-      width="650"
-      height="200"
-    />
     <br />
     <b
       >EVENT 1: <br />
