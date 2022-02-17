@@ -1,6 +1,6 @@
 ![IMG](https://github.com/Indiana-Crossroads-Of-America/website/actions/workflows/node.js.yml/badge.svg) | *I:COA Pulls directly from the MASTER Branch*
 
-# I:COA Website Repository.
+# I:COA Website Repository
 
 I: COA is developed using a lightweight framework that's able to run universally anywhere that has a CLI-interface *(Even NGINX) ;)*.
 
