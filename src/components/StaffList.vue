@@ -47,8 +47,11 @@
       <b>AdorkableJes#4300</b> <br />
       <font size="2">Server Moderator</font></label
     ><br />
-    <hr>
-     <h1>Game Staff<pre><font size="3">Team dedicated to moderating our MC (Darthon-SMP) server.</font></pre></h1>
+    <hr />
+    <h1>
+      Game Staff
+      <pre><font size="3">Team dedicated to moderating our MC (Darthon-SMP) server.</font></pre>
+    </h1>
     <label>
       <img
         src="https://api.rlmtech.xyz/assets/i/Jerry_Surprised.png"
@@ -56,7 +59,7 @@
         height="100"
       />
       <br />
-    
+
       <b>Tiko Thunder#1138 </b> <br />
       <font size="2">Game Server Staff</font></label
     ><br />
