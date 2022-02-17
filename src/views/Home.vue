@@ -1,10 +1,9 @@
 <template>
   <div class="home">
-    <h1>Welcome to the Indiana Crossroads of America website!</h1>
-    <!-- <p>
-      &#x26A0;This site is limited in functionality and is under construction.
-      &#9888;
-    </p> -->
+<h1>Welcome to Indiana & Our Community.</h1>
+<p>We're a community dedicated to equality, fun, wholness, and fun.</p>
+<p>We enjoy bringing others together for <a href="/events">events</a></p>
+<p style="border:1px; border-style:solid; border-color:#FF0000; padding: 3em;"></p>
   </div>
 </template>
 
