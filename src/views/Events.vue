@@ -5,17 +5,10 @@
     symptons of COVID-19.
   </div>
   <h1>Community Events</h1>
-  <p
-    style="
-      border: 5px;
-      border-style: solid;
-      border-color: #ff0000;
-      padding: 0em;
-    "
-  >
-    EVENT NAME: <b>TEST.</b> <br />Location: Monument Circle, Indianapolis IN<br />This
-    event is not real but a test outline on declaring the syle.
-  </p>
+
+  <p>Sorry, there are no events currently. Check back later.</p>
+  <p>If you'd like to share an event, contact
+  <a href="mailto:ross@indianacrossroadsofamerica.com">Ross</a></p>
 </template>
 
 <style>
