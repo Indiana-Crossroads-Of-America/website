@@ -9,7 +9,7 @@
   <div class="stafflist">
     <h1>Operations at Indiana: Crossroads of America.</h1>
     <pre><font size="3">The internal team that keeps I:COA running day and night.</font>
-    <font size="3" color="blue"> Profiles showing &#128736; are members whom have the highest tier access.</font></pre>
+    <font size="3" color="blue"> Profiles showing &#128736; are Team Leads.</font></pre>
     <hr />
     <h1>Leadership</h1>
     <pre><font size="3">Those whom are in charge of the team and community.</font></pre>
@@ -21,11 +21,14 @@
       />
       <br /><b>JulesBeHere &#128736;</b>
       <br />
-      <font size="2">Community Founder</font></label
+      <font size="3">Community Founder</font></label
     ><br />
-    <h1>
+    
+
       <hr />
-      Server Staff
+
+      <!-- Disc Staff Header -->
+      <h1>Discord Community Staff
     </h1>
     <pre><font size="3">&#9876; Community Rule Enforcement &#9876;</font></pre>
     <label
@@ -35,7 +38,7 @@
         height="100"
       /><br />
       <b>ScarryGargoyle#9834</b> <br />
-      <font size="2">Server Moderator</font></label
+      <font size="3">Server Moderator</font></label
     ><br />
     <label>
       <img
@@ -45,8 +48,24 @@
       />
       <br />
       <b>AdorkableJes#4300</b> <br />
-      <font size="2">Server Moderator</font></label
+      <font size="3">Server Moderator</font></label
     ><br />
+    <label>
+      <img
+        src="https://cdn.discordapp.com/avatars/589491534869823508/42624549197652cb9b426044e12349a4.webp?size=1024"
+        width="100"
+        height="100"
+      />
+    <br/>
+      <b>Kat1016#1942</b> <br />
+      <font size="3">Community Lead</font></label
+    ><br />
+   
+   
+
+   
+   
+    <!-- Game Staff -->
     <hr />
     <h1>
       Game Staff
@@ -61,8 +80,11 @@
       <br />
 
       <b>Tiko Thunder#1138 </b> <br />
-      <font size="2">Game Server Staff</font></label
+      <font size="3">Game Server Staff</font></label
     ><br />
+    
+    <!-- DEVOPS -->
+ <a id="Developers"> </a>
     <h1>
       <hr />
       DevOps Team
@@ -75,7 +97,7 @@
         height="100"
       /><br />
       <b><font color="red">Ross &#128736;</font> </b><br />
-      <font size="2">DevOPS Coordinator & Network Manager</font></label
+      <font size="3">DevOPS Coordinator & Network Manager</font></label
     ><br />
     <p>
       Contact:
@@ -98,3 +120,4 @@ img {
   border-radius: 50%;
 }
 </style>
+
