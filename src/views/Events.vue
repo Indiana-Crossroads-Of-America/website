@@ -6,16 +6,38 @@
   </div>
   <h1>Community Events</h1>
   <pre>Events are localized by County.</pre>
-<hr>
 
-<p style="border:1px; border-style:solid; border-color:#FF0000; padding: 3em;">
-  <img src="https://informedinfrastructure.com/wp-content/uploads/2019/10/NineStarConnect_Color_RGB_WEB-1024x305-e1570629624543.png" alt="NSC"  width="650" height="200" >
-<br>
-  <b>EVENT 1: <br> Name: NineStar Connect Gaming LAN (Hancock County/Greenfield, IN)</b> 
-  <br> Location: 2243 E Main St, Greenfield, IN 46140 Date: 2/22/2022
-  <br> Time: 6:00PM* - 9:30PM** Eastern Time
-    <br>
-    <br> <i>* Start time may encounter delays **End time varies based on staff avaliability</i>
+  <hr />
+  <p>Hancock</p>
+
+  <p
+    style="
+      border: 1px;
+      border-style: solid;
+      border-color: #ff0000;
+      padding: 3em;
+    "
+  >
+    <img
+      src="https://informedinfrastructure.com/wp-content/uploads/2019/10/NineStarConnect_Color_RGB_WEB-1024x305-e1570629624543.png"
+      alt="NSC"
+      width="650"
+      height="200"
+    />
+    <br />
+    <b
+      >EVENT 1: <br />
+      Name: NineStar Connect Gaming LAN (Hancock County/Greenfield, IN)</b
+    >
+    <br />
+    Location: 2243 E Main St, Greenfield, IN 46140 Date: NIL <br />
+    Time: 6:00PM* - 9:30PM** Eastern Time
+    <br />
+    <br />
+    <i
+      >* Start time may encounter delays **End time varies based on staff
+      avaliability</i
+    >
   </p>
 
   <!-- <p>Sorry, there are no events currently. Check back later.</p>
