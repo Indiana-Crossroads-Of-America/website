@@ -1,5 +1,10 @@
 <template>
-	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+  <link
+    rel="stylesheet"
+    href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
+    integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf"
+    crossorigin="anonymous"
+  />
 
   <div class="stafflist">
     <h1>Operations at Indiana: Crossroads of America.</h1>
@@ -29,13 +34,31 @@
         width="100"
         height="100"
       /><br />
-      <b>ScarryGargoyle#9834</b> <br> <font size="2">Server Moderator</font></label
+      <b>ScarryGargoyle#9834</b> <br />
+      <font size="2">Server Moderator</font></label
     ><br />
-    <label> <img
+    <label>
+      <img
         src="https://st2.depositphotos.com/1009634/7235/v/600/depositphotos_72350117-stock-illustration-no-user-profile-picture-hand.jpg"
         width="100"
         height="100"
-      /> <br> <b>AdorkableJes#4300</b> <br> <font size="2">Server Moderator</font></label
+      />
+      <br />
+      <b>AdorkableJes#4300</b> <br />
+      <font size="2">Server Moderator</font></label
+    ><br />
+    <hr>
+     <h1>Game Staff<pre><font size="3">Team dedicated to moderating our MC (Darthon-SMP) server.</font></pre></h1>
+    <label>
+      <img
+        src="https://api.rlmtech.xyz/assets/i/Jerry_Surprised.png"
+        width="100"
+        height="100"
+      />
+      <br />
+    
+      <b>Tiko Thunder#1138 </b> <br />
+      <font size="2">Game Server Staff</font></label
     ><br />
     <h1>
       <hr />
@@ -50,7 +73,12 @@
       /><br />
       <b><font color="red">Ross &#128736;</font> </b><br />
       <font size="2">DevOPS Coordinator & Network Manager</font></label
-    ><br><p>Contact: <a href="mailto:ross@indianacrossroadsofamerica.com">Mail (I:COA Org) </a> | <a href="https://github.com/rossmdevs">GitHub</a></p>
+    ><br />
+    <p>
+      Contact:
+      <a href="mailto:ross@indianacrossroadsofamerica.com">Mail (I:COA Org) </a>
+      | <a href="https://github.com/rossmdevs">GitHub</a>
+    </p>
     <hr />
   </div>
 </template>
