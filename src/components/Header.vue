@@ -6,7 +6,7 @@
         <router-link to="/staff">Staff List</router-link>
         <router-link to="/about">About</router-link>
         <router-link to="/events">Events</router-link>
-        <router-link to="/contact">Contact Us</router-link>
+        <!-- <router-link to="/contact">Contact Us</router-link> -->
       </div>
     </div>
   </div>
