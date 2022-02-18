@@ -10,6 +10,8 @@
       </div>
     </div>
   </div>
+      <pre>We are a unification of the state of Indiana. </pre>
+
 </template>
 <script>
 export default {
