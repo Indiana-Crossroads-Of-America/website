@@ -1,4 +1,5 @@
 <template>
+<p>Sorry! This form is disabled. Actions are not submitted. Please contact <a href="mailto:contact@indianacrossroadsofamerica.com">us</a></p>
   <div class="container">
     <form>
       <label>Name</label>

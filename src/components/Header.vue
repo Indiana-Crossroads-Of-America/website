@@ -21,12 +21,15 @@ export default {
 <style>
 .outer-header {
   padding: 0px 10px 10px;
+  margin: auto;
+  width: max-content;
 }
 
 .header {
   overflow: hidden;
   background-color: #dc143c;
   padding: 15px;
+  border-radius: 25px;
 }
 
 .header-side {
