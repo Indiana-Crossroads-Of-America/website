@@ -38,7 +38,7 @@ export default {
 }
 
 .header-side {
-  float: right;
+  float: left;
 }
 
 .header a {
