@@ -10,8 +10,6 @@
     <strong>Notice:</strong>
   </div> -->
 
-  
-
   <!-- Begin Navbar -->
   <div id="header">
     <Header></Header>
