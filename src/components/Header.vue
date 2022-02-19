@@ -11,8 +11,7 @@
       </div>
     </div>
   </div>
-      <pre>We are a unification of the state of Indiana. </pre>
-
+  <pre>We are a unification of the state of Indiana. </pre>
 </template>
 <script>
 export default {
@@ -53,6 +52,7 @@ export default {
 /* .header a.router-link-exact-active {
   color: #42b983;
 } */
+
 .header a:hover:not(.active) {
   background-color: #ffffff;
 }
