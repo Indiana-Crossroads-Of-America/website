@@ -28,7 +28,7 @@ export default {
   padding: 0px 10px 10px;
   margin: auto; /* This keeps the bar centered */
   width: max-content;
-  float: center;
+  float: right;
 }
 
 .header {
