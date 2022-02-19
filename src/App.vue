@@ -7,10 +7,10 @@
   />
 
   <!-- <div class="alert">
-    <strong>Notice:</strong> Our website is actively being developed. Should you
-    see broke code visit our
-    <a href="#"><font-awesome-icon icon="fa-brands fa-github" /> Github</a>
+    <strong>Notice:</strong>
   </div> -->
+
+  
 
   <!-- Begin Navbar -->
   <div id="header">
@@ -31,7 +31,7 @@ export default {
   created() {
     document.title = "I:COA - Community Site";
     console.log(
-      "I:COA NGINX \n Channel: Public (Served via http://indianacrossroadsofamerica.com/dist) \n Developed by: Julian & Ross https://rlmtech.xyz"
+      "I:COA Community Site Project \n over 300 lines of code and counting. \n ------------------------------ \n Hey You! Yea you! We have Developer Volunteer Opportunities! \n We are seeking DevOP roles for CSS Designers, HTML Developers, and JavaScript (VUEJS) Developers! Have what it takes? Email ross@indianacrossroadsofamerica.com"
     );
   },
 };

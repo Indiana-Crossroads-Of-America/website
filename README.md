@@ -1,4 +1,6 @@
-![IMG](https://github.com/Indiana-Crossroads-Of-America/website/actions/workflows/node.js.yml/badge.svg) | *I:COA Pulls directly from the MASTER Branch*
+![IMG](https://github.com/Indiana-Crossroads-Of-America/website/actions/workflows/node.js.yml/badge.svg) 
+
+*I:COA builds & pulls directly from the MASTER Branch. Make sure your code passes via [Actions](https://github.com/Indiana-Crossroads-Of-America/website/actions).*
 
 # I:COA Website Repository
 
