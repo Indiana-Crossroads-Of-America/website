@@ -22,13 +22,15 @@
       Name: NineStar Connect Gaming LAN (Hancock County/Greenfield, IN)</b
     >
     <br />
-    Location: 2243 E Main St, Greenfield, IN 46140 Date: 2/22/2022 <br />
-    Time: 6:00PM* - 9:30PM** Eastern Time
+    Location: 2243 E Main St, Greenfield, IN 46140 Date: 2/25/2022 <br />
+    Time: 6:00PM - 9PM Eastern Time
+    <br>
+    Event Info: GAMING LAN, 9* <i>sometimes</i> provides up to 10 GAMING Computers for players to game on. They also have a Nintendo Switch and host a Smash Bro's Competition.
     <br />
     <br />
     <i
-      >* Start time may encounter delays **End time varies based on staff
-      avaliability</i
+      >This event is set to begin at 6PM-EST, and end at 9PM-EST. This may change due to weather, avaliability, or other concluding factors.
+      </i
     >
   </p>
 

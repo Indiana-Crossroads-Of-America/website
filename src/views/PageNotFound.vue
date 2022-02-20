@@ -9,6 +9,9 @@
 export default {
   name: "404",
 };
+
+
+console.log("404-NOTFOUND \n The content you requested couldn't be found on the origin.")
 </script>
 
 <style scoped>
