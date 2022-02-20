@@ -31,7 +31,7 @@ export default {
 .header {
   overflow: hidden;
   background-color: #dc143c;
-  padding: 15px;
+  padding: 15px 0px;
   border-radius: 25px;
 }
 
@@ -43,7 +43,7 @@ export default {
   font-weight: bold;
   color: #2c3e50;
   text-decoration: none;
-  padding: 15px;
+  padding: 16px;
   border-radius: 25px;
 }
 
