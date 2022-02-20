@@ -1,4 +1,5 @@
 import { createApp } from "vue";
 import App from "./App.vue";
 import router from "./router";
-createApp(App).use(router).mount("#app");
+import VueTyperPlugin from "vue-typer";
+createApp(App).use(router, VueTyperPlugin).mount("#app");
