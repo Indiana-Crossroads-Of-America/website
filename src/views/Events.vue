@@ -1,12 +1,12 @@
 <template>
   <div class="alert">
-    <strong>Notice:</strong> Due to COVID-19, face masks <u>may be</u> required.
+    <marquee><strong>Notice:</strong> Due to COVID-19, face masks <u>may be</u> required.
     Stay home if you've come in contact with COVID-19 AND/OR are experiencing
-    symptons of COVID-19.
+    symptoms of COVID-19.</marquee>
   </div>
   <h1>Community Events</h1>
   <pre>Events are localized by County.</pre>
-  <hr />
+<hr class="coa">
 
   <p
     style="
@@ -71,5 +71,12 @@
 
 .closebtn:hover {
   color: black;
+}
+</style>
+
+<!-- HR Style -->
+<style scoped>
+hr.coa {
+  border-top: 1px dashed red;
 }
 </style>
