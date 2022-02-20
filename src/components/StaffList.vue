@@ -9,19 +9,20 @@
   <div class="stafflist">
     <h1>Operations at Indiana: Crossroads of America.</h1>
     <pre><font size="3">The internal team that keeps I:COA running day and night.</font>
-    <font size="3" color="blue"> Profiles showing &#128736; are Team Leads.</font></pre>
+    <font size="3" color="blue"> Profiles showing <font color="red">&#128736;</font> are Team Leads.</font></pre>
     <hr />
     <h1>Leadership</h1>
     <pre><font size="3">Individuals tasked with Team Management and Community Oversight.</font></pre>
+    <hr>
     <label
       ><img
         src="https://cdn.discordapp.com/avatars/338732952600969216/1ce48ebad0fa8e90fd7eb81e32fc33f5.webp?size=100"
         width="100"
         height="100"
       />
-      <br /><b>JulesBeHere &#128736;</b>
+      <br /><b><a href="https://github.com/JulianEPrice" style="color:red">JulesBeHere &#128736;</a></b>
       <br />
-      <font size="3">Community Founder</font></label
+      <font size="3" >Community Founder</font></label
     ><br />
     <br>
      <label
@@ -31,14 +32,15 @@
         height="100"
       /><br />
       <b><a href="https://github.com/rossmdevs/" style="color:red">Ross &#128736;</a> </b><br />
-      <font size="3">Developer Relations & Network Lead</font></label
+      <font size="3">Developer Operations & Network Lead</font></label
     ><br />
 
     <hr />
 
     <!-- Disc Staff Header -->
     <h1>Discord Community Staff</h1>
-    <pre><font size="3">&#9876;Our quick-witted Community peacekeeping team.&#9876;</font></pre>
+    <pre><font size="3">Our quick-witted Community Peacekeeping team.</font></pre>
+    <hr>
     <label
       ><img
         src="https://cdn.discordapp.com/avatars/265242045038198784/46a16b5f6d4ed89eab887ed88fc5224f.webp?size=100\"
@@ -96,7 +98,7 @@
       <hr />
       Developer Operations Team (DevOPS)
     </h1>  
-    <pre><font size="3">Individuals tasked with Server Developement & Management.</font></pre>
+    <pre><font size="3">Our wonderful front & backend development team.</font></pre>
     <hr>
     <label
       ><img
