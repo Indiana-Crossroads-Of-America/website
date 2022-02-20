@@ -27,9 +27,9 @@ export default {
     Header,
   },
   created() {
-    document.title = "I:COA - Community Site";
+    document.title = "Indiana Crossroads - Home";
     console.log(
-      "I:COA Community Site Project \n over 300 lines of code and counting. \n ------------------------------ \n Hey You! Yea you! We have Developer Volunteer Opportunities! \n We are seeking DevOP roles for CSS Designers, HTML Developers, and JavaScript (VUEJS) Developers! Have what it takes? Email ross@indianacrossroadsofamerica.com"
+      "I:COA Community Site Project \n over 300 lines of code and counting. \n ------------------------------ \n Hey You! Yea you! We have Developer Volunteer Opportunities! \n We are seeking DevOP roles for CSS Designers, HTML Developers, and JavaScript (VUEJS) Developers! Have what it takes? See https://indianacoa.com/opportunities and work with some great people."
     );
   },
 };
