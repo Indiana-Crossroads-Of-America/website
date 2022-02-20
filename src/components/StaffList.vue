@@ -93,6 +93,15 @@
       <b><font color="red">Ross &#128736;</font> </b><br />
       <font size="3">DevOPS Coordinator & Network Manager</font></label
     ><br />
+    <label
+      ><img
+        src="https://api.rlmtech.xyz/assets/i/staticme.jfif"
+        width="100"
+        height="100"
+      /><br />
+      <b><font color="red">Star &#128736;</font> </b><br />
+      <font size="3">ICOA Developer</font></label
+    ><br />
     <p>
       Contact:
       <a href="mailto:ross@indianacrossroadsofamerica.com">Mail (I:COA Org) </a>
