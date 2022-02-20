@@ -81,32 +81,36 @@
     <a id="Developers"> </a>
     <h1>
       <hr />
-      DevOps Team
+      Developer Operations Team (DevOPS)
     </h1>
-    <pre><font size="3">Members tasked with server developement & managment.</font></pre>
+    <pre><font size="3">Individuals tasked with Server Developement & Management.</font></pre>
     <label
       ><img
         src="https://api.rlmtech.xyz/assets/i/staticme.jfif"
         width="100"
         height="100"
       /><br />
-      <b><font color="red">Ross &#128736;</font> </b><br />
+      <b><a href="https://github.com/rossmdevs/" style="color:red">Ross &#128736;</a> </b><br />
       <font size="3">DevOPS Coordinator & Network Manager</font></label
     ><br />
     <label
       ><img
-        src="https://api.rlmtech.xyz/assets/i/staticme.jfif"
+        src="https://cdn.discordapp.com/avatars/301477696729251840/11f9e07130ec91aff12367c676dfe922.webp?size=100"
         width="100"
         height="100"
       /><br />
-      <b><font color="red">Star &#128736;</font> </b><br />
+      <b><a href="https://github.com/galactic-donuts" style="color:orange">Star</a> </b><br />
       <font size="3">ICOA Developer</font></label
     ><br />
-    <p>
-      Contact:
-      <a href="mailto:ross@indianacrossroadsofamerica.com">Mail (I:COA Org) </a>
-      | <a href="https://github.com/rossmdevs">GitHub</a>
-    </p>
+    <label
+      ><img
+        src="https://cdn.discordapp.com/avatars/242203645091905536/99cd13537ef10a1b89c9a7ae29f27cbb.webp?size=100"
+        width="100"
+        height="100"
+      /><br />
+      <b><a href="https://github.com/ECOrzuna" style="color:orange">Rico Lamb#5756</a> </b><br />
+      <font size="3">ICOA Developer</font></label
+    ><br />
     <hr />
   </div>
 </template>
