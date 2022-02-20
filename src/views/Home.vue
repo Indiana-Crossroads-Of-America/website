@@ -10,8 +10,6 @@
       <i>(You're Always welcomed to I:COA)</i>
     </p>
   </div>
-
-  <vue-typer text="Hello World! I was registered locally!"></vue-typer>
 </template>
 
 <script>
