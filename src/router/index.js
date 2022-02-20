@@ -25,8 +25,8 @@ const routes = [
   },
 
   {
-    path: "/Events",
-    name: "eventsloader",
+    path: "/events",
+    name: "EventsLoader",
     // route level code-splitting
     // this generates a separate chunk (about.[hash].js) for this route
     // which is lazy-loaded when the route is visited.
@@ -35,21 +35,21 @@ const routes = [
   },
   {
     path: "/contact",
-    name: "Contactloader",
+    name: "ContactLoader",
     // route level code-splitting
     // this generates a separate chunk (about.[hash].js) for this route
     // which is lazy-loaded when the route is visited.
     // component: () =>
-    //   import(/* webpackChunkName: "about" */ "../views/contact.vue"),
+    //   import(/* webpackChunkName: "about" */ "../views/Contact.vue"),
   },
   {
     path: "/opportunities",
-    name: "opportunities",
+    name: "Opportunities",
     // route level code-splitting
     // this generates a separate chunk (about.[hash].js) for this route
     // which is lazy-loaded when the route is visited.
     component: () =>
-      import(/* webpackChunkName: "about" */ "../views/opportunities.vue"),
+      import(/* webpackChunkName: "about" */ "../views/Opportunities.vue"),
   },
   {
     path: "/:pathMatch(.*)*",
