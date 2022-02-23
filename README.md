@@ -10,6 +10,4 @@ I: COA utilizes VUEJS, VUE-CLI, NPM, NODEJS and other frameworks to run. We are 
 
 
 
-> Looking for How to Build? [See Here](https://github.com/Indiana-Crossroads-Of-America/indiana-crossroads-of-america/wiki)
-
-> [Dev Branch](https://github.com/Indiana-Crossroads-Of-America/website/tree/development) is only for experienced and seasoned members. Functions may break, broken API's or fallback urls. 
+> Trying to build locally? [See Here](https://github.com/Indiana-Crossroads-Of-America/indiana-crossroads-of-america/wiki)
