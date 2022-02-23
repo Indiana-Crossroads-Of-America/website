@@ -16,7 +16,7 @@
     <hr>
     <label
       ><img
-        src="https://cdn.discordapp.com/avatars/338732952600969216/1ce48ebad0fa8e90fd7eb81e32fc33f5.webp?size=100"
+        src="https://cdn.indianacoa.com/staff_images/jules.webp"
         width="100"
         height="100"
       />
@@ -43,7 +43,7 @@
     <hr>
     <label
       ><img
-        src="https://cdn.discordapp.com/avatars/265242045038198784/46a16b5f6d4ed89eab887ed88fc5224f.webp?size=100\"
+        src="https://cdn.indianacoa.com/staff_images/scar.webp"
         width="100"
         height="100"
       /><br />
@@ -53,7 +53,7 @@
     <br>
     <label>
       <img
-        src="https://st2.depositphotos.com/1009634/7235/v/600/depositphotos_72350117-stock-illustration-no-user-profile-picture-hand.jpg"
+        src="https://cdn.indianacoa.com/staff_images/adork.jpg"
         width="100"
         height="100"
       />
@@ -64,7 +64,7 @@
     <br>
     <label>
       <img
-        src="https://cdn.discordapp.com/avatars/589491534869823508/42624549197652cb9b426044e12349a4.webp?size=1024"
+        src="https://cdn.indianacoa.com/staff_images/kat.webp"
         width="100"
         height="100"
       />
@@ -102,7 +102,7 @@
     <hr>
     <label
       ><img
-        src="https://cdn.discordapp.com/avatars/301477696729251840/11f9e07130ec91aff12367c676dfe922.webp?size=100"
+        src="https://cdn.indianacoa.com/staff_images/star.jpg"
         width="100"
         height="100"
       /><br />
@@ -112,7 +112,7 @@
     <br>
     <label
       ><img
-        src="https://cdn.discordapp.com/avatars/242203645091905536/99cd13537ef10a1b89c9a7ae29f27cbb.webp?size=100"
+        src="https://cdn.indianacoa.com/staff_images/rico.jpg"
         width="100"
         height="100"
       /><br />
