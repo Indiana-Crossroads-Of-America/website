@@ -1,4 +1,5 @@
 <template>
+
   <div class="alert">
     <marquee
       ><strong>Notice:</strong> Due to COVID-19, face masks
@@ -7,8 +8,12 @@
     >
   </div>
   <h1>Community Events</h1>
-  <pre>Events are localized by County.</pre>
+  <pre><p>We're looking for community feedback. <a href="https://forms.gle/ku3Z4GM55XDVfiF18">Tell us here</a></p></pre>
   <hr class="coa" />
+
+
+ 
+
   <div id="event" class="event">
     <p
       style="
@@ -20,7 +25,7 @@
     >
       <br />
       <b
-        >EVENT 1: <br />
+        >EVENT 1: <br /><font size="2" color="red">NON-I:COA Sponsored</font> <br />
         Name: NineStar Connect Gaming LAN (Hancock County/Greenfield, IN)</b
       >
       <br />
@@ -39,7 +44,11 @@
     </p>
   </div>
 
-  <div id="event" class="event">
+
+  <!-- Movie Night -->
+
+
+<div id="event" class="event">
     <p
       style="
         border: 1px;
@@ -49,18 +58,21 @@
       "
     >
       <br />
-      <b>Movie Night #3</b><br />
+      <b
+        >EVENT 1: <br /><font size="2" color="green">I:COA Sponsored</font> <br />
+       3rd Community Movie Night</b>
       <br />
-      Location: Discord Lounge Voice Chat <br />
-      Date: 2/25/2022 <br />
-      Time: <strong>8PM</strong> Eastern Time
+      Location: Virtual, I:COA Discord Chat | 2/25/2022<br />
+      Time: 8PM
       <br />
-      Event Info: We're watching Armaggedon!
+      Event Info: We're watching armaggedon.
       <br />
       <br />
+      <i
+        >This event is set to begin at 8PM-EST, the event can be cancelled last minute if events occur last minute.
+      </i>
     </p>
-  </div>
-
+  </div> 
   <!-- <p>Sorry, there are no events currently. Check back later.</p>
   If you'd like to share an event, contact
   <a href="mailto:ross@indianacrossroadsofamerica.com">Ross</a> -->
@@ -76,6 +88,9 @@
     EVENT NAME: <b>n.</b> <br />Location: Monument Circle, Indianapolis IN<br />This
     event is not real but a test outline on declaring the syle.
   </p> -->
+
+<meta property="og:title" content="I:COA - Events" />
+<meta property="og:description " content="Statewide events the Indiana community can partake in." />
 </template>
 
 <style>
@@ -109,5 +124,11 @@
 <style scoped>
 hr.coa {
   border-top: 1px dashed red;
+}
+</style>
+<style scoped>
+#theDiv {
+  width: 100px;
+  border: solid red 2px;
 }
 </style>
