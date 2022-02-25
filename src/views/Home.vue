@@ -9,6 +9,8 @@
       Join our community: <a href="https://discord.gg/5AUD5g8kgR">here</a>.
       <i>(You're Always welcomed to I:COA)</i>
     </p>
+
+    <pre>This is a video dedicated to helping you get started with Discord</pre>
     <video width="320" height="240" controls>
   <source src="https://cdn.indianacoa.com/vids/disc_guide.mp4" type="video/mp4"></video>
   </div>

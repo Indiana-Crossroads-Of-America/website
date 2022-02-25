@@ -19,13 +19,13 @@
       style="
         border: 1px;
         border-style: solid;
-        border-color: #ff0000;
+        border-color: green;
         padding: 3em;
       "
     >
       <br />
       <b
-        >EVENT 1: <br /><font size="2" color="red">NON-I:COA Sponsored</font> <br />
+        >EVENT 1: <br /><font size="2" color="green">Event In Progress</font> <br /><font size="2" color="red">NON-I:COA Sponsored</font> <br />
         Name: NineStar Connect Gaming LAN (Hancock County/Greenfield, IN)</b
       >
       <br />
