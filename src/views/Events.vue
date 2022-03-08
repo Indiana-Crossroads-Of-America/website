@@ -14,15 +14,24 @@
 
  
 
-  <div id="event" class="event">
+  
+
+
+  <!-- Movie Night -->
+
+
+
+  <p>Sorry, <u>there are no events currently</u>. Check back later.</p>
+  If you'd like to suggest an event location, visit <a href="https://forms.gle/ku3Z4GM55XDVfiF18">this document</a> to suggest one.
+
+ <!-- <div id="event" class="event">
     <p
       style="
         border: 1px;
         border-style: solid;
         border-color: green;
         padding: 3em;
-      "
-    >
+      ">
       <br />
       <b
         >EVENT 1: <br /><font size="2" color="green">Event In Progress</font> <br /><font size="2" color="red">NON-I:COA Sponsored</font> <br />
@@ -42,52 +51,7 @@
         change due to weather, availability, or other factors.
       </i>
     </p>
-  </div>
-
-
-  <!-- Movie Night -->
-
-
-<div id="event" class="event">
-    <p
-      style="
-        border: 1px;
-        border-style: solid;
-        border-color: #ff0000;
-        padding: 3em;
-      "
-    >
-      <br />
-      <b
-        >EVENT 1: <br /><font size="2" color="green">I:COA Sponsored</font> <br />
-       3rd Community Movie Night</b>
-      <br />
-      Location: Virtual, I:COA Discord Chat | 2/25/2022<br />
-      Time: 8PM
-      <br />
-      Event Info: We're watching armaggedon.
-      <br />
-      <br />
-      <i
-        >This event is set to begin at 8PM-EST, the event can be cancelled last minute if events occur last minute.
-      </i>
-    </p>
-  </div> 
-  <!-- <p>Sorry, there are no events currently. Check back later.</p>
-  If you'd like to share an event, contact
-  <a href="mailto:ross@indianacrossroadsofamerica.com">Ross</a> -->
-
-  <!-- <p
-    style="
-      border: 5px;
-      border-style: solid;
-      border-color: #ff0000;
-      padding: 0em;
-    "
-  >
-    EVENT NAME: <b>n.</b> <br />Location: Monument Circle, Indianapolis IN<br />This
-    event is not real but a test outline on declaring the syle.
-  </p> -->
+  </div> -->
 
 <meta property="og:title" content="I:COA - Events" />
 <meta property="og:description " content="Statewide events the Indiana community can partake in." />
