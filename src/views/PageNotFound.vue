@@ -1,8 +1,7 @@
 <template>
   <h1>(404) Sorry, that content wasn't found!</h1>
-  <p>If you believe this is a mistake, check your URL.</p>
-  <i>Here's a picture of a cute dog instead! (not interested? <a href="/">go home.</a>)</i> <br>
-  <img src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg" width="1200" height="600">
+  <p>The current page you tried to load wasn't found on our server or it's misplaced.</p>
+  <i>Please reach out if you believe this was a mistake. Otherwise, <a href="/"> go home</a></i>
 </template>
 
 <script>
