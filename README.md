@@ -11,6 +11,6 @@
 
 
 
-> Trying to experiemnt with I:COA? [See Here](https://github.com/Indiana-Crossroads-Of-America/indiana-crossroads-of-america/wiki)
+> Trying to experiement with I:COA? [See Here](https://github.com/Indiana-Crossroads-Of-America/indiana-crossroads-of-america/wiki)
 
 > Want to develop for I:COA? [See here (All vacancies are voluntary)](https://forms.gle/YsUYZr7JTVypGx48A)
