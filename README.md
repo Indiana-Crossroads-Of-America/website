@@ -1,6 +1,13 @@
 *Status: ![IMG](https://github.com/Indiana-Crossroads-Of-America/website/actions/workflows/node.js.yml/badge.svg)*
 
-*I:COA Stage: Development: Phase 1*
+*I:COA Staging*
+
+*Development: Phase 2*
+
+| Version     | Status      |
+| ----------- | ----------- |
+| 1           |  Done ✅   |
+| 2           | In Progress |
 
 *Building off main*
 
