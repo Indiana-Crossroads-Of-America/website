@@ -24,7 +24,16 @@
       <br />
       <font size="3" >Community Founder</font></label
     ><br />
-    <br>
+    <label>
+      <img
+        src="https://cdn.indianacoa.com/staff_images/adork.jpg"
+        width="100"
+        height="100"
+      />
+      <br />
+      <b>AdorkableJes#4300</b> <br />
+      <font size="3">Community Administrator</font></label
+    ><br />
      <label
       ><img
         src="https://api.rlmtech.xyz/assets/i/staticme.jfif"
@@ -34,6 +43,7 @@
       <b><a href="https://github.com/rossmdevs/" style="color:red">Ross &#128736;</a> </b><br />
       <font size="3">Developer Operations & Network Lead</font></label
     ><br />
+
 
     <hr />
 
@@ -50,18 +60,6 @@
       <b>ScarryGargoyle#9834</b> <br />
       <font size="3">Server Moderator</font></label
     ><br />
-    <br>
-    <label>
-      <img
-        src="https://cdn.indianacoa.com/staff_images/adork.jpg"
-        width="100"
-        height="100"
-      />
-      <br />
-      <b>AdorkableJes#4300</b> <br />
-      <font size="3">Server Moderator</font></label
-    ><br />
-    <br>
     <label>
       <img
         src="https://cdn.indianacoa.com/staff_images/kat.webp"
@@ -72,7 +70,13 @@
       <b>Kat1016#1942</b> <br />
       <font size="3">Game Staff & Policies Creator</font></label
     ><br />
-
+<img
+        src="https://cdn.indianacoa.com/staff_images/star.jpg"
+        width="100"
+        height="100"
+      /><br />
+      <b><a href="https://github.com/galactic-donuts" style="color:orange">Star</a> </b><br />
+      <font size="3">ICOA Developer & Server Trial Moderator</font>
     <!-- Game Staff -->
     <hr />
     <h1>
@@ -101,13 +105,7 @@
     <pre><font size="3">Our wonderful front & backend development team.</font></pre>
     <hr>
     <label
-      ><img
-        src="https://cdn.indianacoa.com/staff_images/star.jpg"
-        width="100"
-        height="100"
-      /><br />
-      <b><a href="https://github.com/galactic-donuts" style="color:orange">Star</a> </b><br />
-      <font size="3">ICOA Developer</font></label
+      ></label
     ><br />
     <br>
     <label
@@ -134,7 +132,7 @@ export default {
 <!--- Circle Images -->
 <style>
 img {
-  border-radius: 50%;
+  border-radius: 8px;
 }
 </style>
 
