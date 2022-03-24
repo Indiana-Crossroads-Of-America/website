@@ -1,8 +1,9 @@
 *Status: ![IMG](https://github.com/Indiana-Crossroads-Of-America/website/actions/workflows/node.js.yml/badge.svg)*
 
-*I:COA Stage: Early-Development*
+*I:COA Stage: Development: Phase 1*
 
-*Pulling From: MAIN*
+*Building off main*
+
 # I:COA Website Repository
 
 I: COA is developed using a lightweight framework that's able to run universally anywhere that has a CLI-interface. *(With limitations)*
