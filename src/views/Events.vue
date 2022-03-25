@@ -21,10 +21,9 @@
 
 
 
-  <p>Sorry, <u>there are no events currently</u>. Check back later.</p>
+  <!-- <p>Sorry, <u>there are no events currently</u>. Check back later.</p> -->
   If you'd like to suggest an event location, visit <a href="https://forms.gle/ku3Z4GM55XDVfiF18">this document</a> to suggest one.
-
- <!-- <div id="event" class="event">
+ <div id="event" class="event">
     <p
       style="
         border: 1px;
@@ -34,11 +33,11 @@
       ">
       <br />
       <b
-        >EVENT 1: <br /><font size="2" color="green">Event In Progress</font> <br /><font size="2" color="red">NON-I:COA Sponsored</font> <br />
+        >EVENT 1: <br /><font size="2" color="red">NON-I:COA Sponsored</font> <br />
         Name: NineStar Connect Gaming LAN (Hancock County/Greenfield, IN)</b
       >
       <br />
-      Location: 2243 E Main St, Greenfield, IN 46140 Date: 2/25/2022 <br />
+      Location: 2243 E Main St, Greenfield, IN 46140 Date: 3/25/2022 <br />
       Time: 6:00PM - 9PM Eastern Time
       <br />
       Event Info: GAMING LAN, 9* <i>sometimes</i> provides up to 10 GAMING
@@ -51,7 +50,7 @@
         change due to weather, availability, or other factors.
       </i>
     </p>
-  </div> -->
+  </div>
 
 <meta property="og:title" content="I:COA - Events" />
 <meta property="og:description " content="Statewide events the Indiana community can partake in." />
