@@ -8,6 +8,7 @@
     <p>
       Join our community: <a href="https://discord.gg/5AUD5g8kgR">here</a>.
       <i>(You're Always welcomed to I:COA)</i>
+      <pre><b>We're Hiring (volunteers)</b>, see our current <router-link to="/opportunities">opportunities</router-link>.</pre>
     </p>
 <br> 
     <video width="800" height="650" controls>

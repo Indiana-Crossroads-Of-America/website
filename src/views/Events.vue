@@ -21,9 +21,8 @@
 
 
 
-  <!-- <p>Sorry, <u>there are no events currently</u>. Check back later.</p> -->
-  If you'd like to suggest an event location, visit <a href="https://forms.gle/ku3Z4GM55XDVfiF18">this document</a> to suggest one.
- <div id="event" class="event">
+  <p>I:COA is not aware of any current &/or upcoming events.</p>
+ <!-- <div id="event" class="event">
     <p
       style="
         border: 1px;
@@ -50,7 +49,7 @@
         change due to weather, availability, or other factors.
       </i>
     </p>
-  </div>
+  </div> -->
 
 <meta property="og:title" content="I:COA - Events" />
 <meta property="og:description " content="Statewide events the Indiana community can partake in." />

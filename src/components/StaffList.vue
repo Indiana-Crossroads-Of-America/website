@@ -5,8 +5,11 @@
     integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf"
     crossorigin="anonymous"
   />
-
+  <hr class="coa">
+  <img src="https://icoa.s3.us-west-2.amazonaws.com/images/icoa-meetup/2022/04/monu-circ/group_photo_04-6-22.jpg" alt="ICOA Meetup" width="300" height="200">
+  <br /><i>Star (Furthermost Left), Julian/JulesBeHere (Middle), Ross (Farthest right)</i>
   <div class="stafflist">
+    <hr>
     <h1>Operations at Indiana: Crossroads of America.</h1>
     <pre><font size="3">The internal team that keeps I:COA running day and night.</font>
     <font size="3" color="blue"> Profiles showing <font color="red">&#128736;</font> are Team Leads.</font></pre>
@@ -16,7 +19,7 @@
     <hr>
     <label
       ><img
-        src="https://cdn.indianacoa.com/staff_images/jules.webp"
+        src="https://icoa.s3.us-west-2.amazonaws.com/images/icoa-meetup/2022/04/monu-circ/jules_photo.jpg"
         width="100"
         height="100"
       />
@@ -26,7 +29,7 @@
     ><br />
     <label>
       <img
-        src="https://cdn.indianacoa.com/staff_images/adork.jpg"
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/1024px-No_image_available.svg.png"
         width="100"
         height="100"
       />
@@ -80,10 +83,9 @@
     <!-- Game Staff -->
     <hr />
     <h1>
-      Game Staff
-      <pre><font size="3">Team dedicated to moderating our MC (Darthon-SMP) server.</font></pre>
+      Game Staff </h1>
+         <pre><font size="3">Our quick-witted Community Peacekeeping team.</font></pre>
       <hr>
-    </h1>
     <label>
       <img
         src="https://api.rlmtech.xyz/assets/i/Jerry_Surprised.png"
@@ -102,7 +104,7 @@
       <hr />
       Developer Operations Team (DevOPS)
     </h1>  
-    <pre><font size="3">Our wonderful front & backend development team.</font></pre>
+    <pre><font size="3">The team behind DevOPS at I:COA, see our current open <router-link to="/opportunities">opportunities</router-link>. </font></pre>
     <hr>
     <label
       ></label

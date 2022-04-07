@@ -63,6 +63,16 @@ const routes = [
       import(/* webpackChunkName: "about" */ "../views/security.vue"),
   },
   {
+    path: "/meetups/",
+    name: "forums",
+    // route level code-splitting
+    // this generates a separate chunk (about.[hash].js) for this route
+    // which is lazy-loaded when the route is visited.
+    // APPLY FOR INTRL APP.
+    component: () =>
+      import(/* webpackChunkName: "about" */ "../views/meets.vue"),
+  },
+  {
     path: "/:pathMatch(.*)*",
     name: "PageNotFound",
     component: PageNotFound,
