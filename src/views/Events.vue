@@ -14,7 +14,7 @@
 
  
 
-  
+  <hr class="coa" />
 
 
   <!-- Movie Night -->
@@ -82,12 +82,7 @@
 }
 </style>
 
-<!-- HR Style -->
-<style scoped>
-hr.coa {
-  border-top: 1px dashed red;
-}
-</style>
+
 <style scoped>
 #theDiv {
   width: 100px;

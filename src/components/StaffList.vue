@@ -5,7 +5,7 @@
     integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf"
     crossorigin="anonymous"
   />
-  <hr class="coa">
+  <hr class="coa" />
   <img src="https://icoa.s3.us-west-2.amazonaws.com/images/icoa-meetup/2022/04/monu-circ/group_photo_04-6-22.jpg" alt="ICOA Meetup" width="300" height="200">
   <br /><i>Star (Furthermost Left), Julian/JulesBeHere (Middle), Ross (Farthest right)</i>
   <div class="stafflist">
@@ -44,9 +44,8 @@
         height="100"
       /><br />
       <b><a href="https://github.com/rossmdevs/" style="color:red">Ross &#128736;</a> </b><br />
-      <font size="3">Developer Operations & Network Lead</font></label
-    ><br />
-
+      <font size="3">ITSM Manager & DevOPS Coordinator</font></label><br />
+        Reach out via: <a href="mailto:ross@indianacoa.com">Personal Email</a> | <a href="mailto:recruiting@indianacoa.com?subject=Recruiting&body=Edit this body to contain your message.">Recruting</a>.
 
     <hr />
 
@@ -60,7 +59,7 @@
         width="100"
         height="100"
       /><br />
-      <b>ScarryGargoyle#9834</b> <br />
+      <b>ScarryGargoyle#9834</b> <i><br /><font color="red" size="2">(ON-LEAVE, DND)</font></i> <br />
       <font size="3">Server Moderator</font></label
     ><br />
     <label>

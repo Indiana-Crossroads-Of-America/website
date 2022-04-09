@@ -93,3 +93,11 @@ body {
  padding: 30px;
 } */
 </style>
+
+<!-- ICOA HR STYLE  -->
+
+<style scoped>
+hr.coa {
+  border-top: 1px dashed red;
+}
+</style>
