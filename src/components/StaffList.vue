@@ -45,7 +45,7 @@
       /><br />
       <b><a href="https://github.com/rossmdevs/" style="color:red">Ross &#128736;</a> </b><br />
       <font size="3">ITSM Manager & DevOPS Coordinator</font></label><br />
-        Reach out via: <a href="mailto:ross@indianacoa.com">Personal Email</a> | <a href="mailto:recruiting@indianacoa.com?subject=Recruiting&body=Edit this body to contain your message.">Recruting</a>.
+        Method of reaching out: <a href="mailto:ross@indianacoa.com">Personal Email</a> | <a href="mailto:recruiting@indianacoa.com?subject=Recruiting&body=Edit this body to contain your message.">Recruting Email</a>.
 
     <hr />
 
