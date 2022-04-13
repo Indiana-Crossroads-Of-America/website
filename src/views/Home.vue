@@ -23,7 +23,7 @@
 export default {
   mounted() {
     let Script = document.createElement("script");
-    Script.setAttribute("src", "https://indianacoa.com/public/resources/js/typer.js");
+    Script.setAttribute("src", "https://ross.indianacoa.com/devops/js/typer.js");
     document.head.appendChild(Script);
   }
 };
