@@ -7,7 +7,8 @@
         <router-link to="/about">About</router-link>|
         <router-link to="/events">Events</router-link>|
         <router-link to="/opportunities">Opportunities</router-link>|
-        <a href="https://status.indianacoa.com">Status</a>
+        <a href="https://sts.indianacoa.com">Status</a>|
+        <a href="https://community.indianacoa.com">Community</a>
         <!-- <router-link to="/contact">Contact Us</router-link> -->
       </div>
     </div>
