@@ -1,10 +1,14 @@
 <template>
   <div class="home">
-    <h1>Welcome to Our Community.</h1>
+    <h1>Welcome to
+      <span class="typer" id="main" data-words="Greatness.,Diversity., Your New Home., Indiana." data-delay="100" data-deleteDelay="1000"></span>
+      <span class="cursor" data-owner="main"></span>
+    </h1>
     <p>
       We're a community dedicated to bring people together regardless of
       differences,.
     </p>
+
 
     <p> Join our community: <a href="https://discord.gg/5AUD5g8kgR">here</a>. </p>
       <i>(You're Always welcomed to I:COA)</i>
@@ -17,7 +21,11 @@
 
 <script>
 export default {
-  name: "Home",
-  components: {},
+  mounted() {
+    let Script = document.createElement("script");
+    Script.setAttribute("src", "https://indianacoa.com/public/resources/js/typer.js");
+    document.head.appendChild(Script);
+  }
 };
 </script>
+
