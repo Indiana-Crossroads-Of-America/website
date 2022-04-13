@@ -1,7 +1,9 @@
 <template>
   <hr class="coa" />
-  <img src="https://icoa.s3.us-west-2.amazonaws.com/images/icoa-meetup/2022/04/monu-circ/group_photo_04-6-22.jpg" alt="ICOA Meetup" width="300" height="200">
-  <br /><i>Star (Furthermost Left), Julian/JulesBeHere (Middle), Ross (Farthest right)</i>
+  <img src="https://ross.indianacoa.com/devops/im/group_photo_04-6-22.jpg" alt="ICOA Meetup" width="300" height="200">
+  <p>Your I:COA DevOPS team. (4-6-22)</p>
+  <i> Star (Furthermost Left), Julian/JulesBeHere (Middle), Ross (Farthest right).
+  Rico (Not Pictured &/or not present.)</i>
   <div class="stafflist">
     <hr>
     <h1>Operations at Indiana: Crossroads of America.</h1>
