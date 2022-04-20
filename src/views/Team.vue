@@ -11,4 +11,5 @@ export default {
     StaffList,
   },
 };
+
 </script>

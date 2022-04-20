@@ -36,15 +36,6 @@ const routes = [
       import(/* webpackChunkName: "about" */ "../views/events.vue"),
   },
   {
-    path: "/contact",
-    name: "ContactLoader",
-    // route level code-splitting
-    // this generates a separate chunk (about.[hash].js) for this route
-    // which is lazy-loaded when the route is visited.
-    // component: () =>
-    //   import(/* webpackChunkName: "about" */ "../views/Contact.vue"),
-  },
-  {
     path: "/opportunities",
     name: "Opportunities",
     // route level code-splitting
@@ -71,6 +62,15 @@ const routes = [
     // APPLY FOR INTRL APP.
     component: () =>
       import(/* webpackChunkName: "about" */ "../views/meets.vue"),
+  },
+  {
+    path: "/contact",
+    name: "contact",
+    // route level code-splitting
+    // this generates a separate chunk (about.[hash].js) for this route
+    // which is lazy-loaded when the route is visited.
+    component: () =>
+        import(/* webpackChunkName: "about" */ "../views/Contact.vue"),
   },
   {
     path: "/:pathMatch(.*)*",

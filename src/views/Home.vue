@@ -1,3 +1,4 @@
+/* eslint-disable */
 <template>
   <div class="home">
     <h1>Welcome to
@@ -8,7 +9,6 @@
       We're a community dedicated to bring people together regardless of
       differences,.
     </p>
-
 
     <p> Join our community: <a href="https://discord.gg/5AUD5g8kgR">here</a>. </p>
       <i>(You're Always welcomed to I:COA)</i>
@@ -24,6 +24,7 @@ export default {
   mounted() {
     let Script = document.createElement("script");
     Script.setAttribute("src", "https://ross.indianacoa.com/devops/js/typer.js");
+    Script.setAttribute("src", "https://cdnjs.cloudflare.com/ajax/libs/limonte-sweetalert2/8.11.8/sweetalert2.all.min.js");
     document.head.appendChild(Script);
   }
 };

@@ -1,11 +1,6 @@
 <template>
   <hr class="coa" />
-  <img src="https://ross.indianacoa.com/devops/im/group_photo_04-6-22.jpg" alt="ICOA Meetup" width="300" height="200">
-  <p>Your I:COA DevOPS team. (4-6-22)</p>
-  <i> Star (Furthermost Left), Julian/JulesBeHere (Middle), Ross (Farthest right).
-  Rico (Not Pictured &/or not present.)</i>
   <div class="stafflist">
-    <hr>
     <h1>Operations at Indiana: Crossroads of America.</h1>
     <pre><font size="3">The internal team that keeps I:COA running day and night.</font>
     <font size="3" color="blue"> Profiles showing <font color="red">&#128736;</font> are Team Leads.</font></pre>
@@ -15,7 +10,7 @@
     <hr>
     <label
     ><img
-        src="https://icoa.s3.us-west-2.amazonaws.com/images/icoa-meetup/2022/04/monu-circ/jules_photo.jpg"
+        src="https://ross.indianacoa.com/devops/im/jules.jpg"
         width="100"
         height="100"
     />
@@ -41,8 +36,7 @@
     /><br />
       <b><a href="https://github.com/rossmdevs/" style="color:red">Ross &#128736;</a> </b><br />
       <font size="3">ITSM Manager & DevOPS Coordinator</font></label><br />
-    Method of reaching out: <a href="mailto:ross@indianacoa.com">Personal Email</a> | <a href="mailto:recruiting@indianacoa.com?subject=Recruiting&body=Edit this body to contain your message.">Recruting Email</a>.
-
+   Reach out: <a href="mailto:ross@indianacoa.com">Personal Email</a>
     <hr />
 
     <!-- Disc Staff Header -->
