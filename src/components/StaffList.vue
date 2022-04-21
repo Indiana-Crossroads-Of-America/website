@@ -10,7 +10,7 @@
     <hr>
     <label
     ><img
-        src="https://ross.indianacoa.com/devops/im/jules.jpg"
+        src="https://ross.indianacoa.com/devops/im/jules.png"
         width="100"
         height="100"
     />
