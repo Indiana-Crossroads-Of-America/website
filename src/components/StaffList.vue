@@ -30,7 +30,7 @@
     ><br />
     <label
     ><img
-        src="https://api.rlmtech.xyz/assets/i/staticme.jfif"
+        src="https://avatars.githubusercontent.com/u/37253938?v=4"
         width="100"
         height="100"
     /><br />
