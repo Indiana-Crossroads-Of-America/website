@@ -22,7 +22,5 @@
 
 Version 3 is experimenting with styling.
 
-We've also launched [I:COA Community](https://community.indianacoa.com).
-
 
 >#### Want to develop for I:COA? [Reach out to learn more.](mailto:join@indianacoa.com)
