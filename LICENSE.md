@@ -1,1 +1,2 @@
-We are compliant with GNU Licensing, it's sub services and any licensing categories.
+Copyright (c) 2022, Julian Price<br>
+All rights reserved. Whenever a contribution is made to this project, the author of it agrees to transfer their copyright and all rights to Julian Price.
