@@ -16,8 +16,7 @@
     />
       <br /><b><a href="https://github.com/JulianEPrice" style="color:red">JulesBeHere &#128736;</a></b>
       <br />
-      <font size="3" >Community Founder</font></label
-    ><br />
+      <font size="3" >Community Founder</font></label><br />
     <label>
       <img
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/1024px-No_image_available.svg.png"
@@ -54,13 +53,14 @@
     ><br />
     <label>
       <img
-          src="https://cdn.indianacoa.com/staff_images/kat.webp"
+          src="https://cdn.discordapp.com/avatars/883802423485956146/01774f6a6bdec84dbbdab0cdc5e954df.webp?size=100"
           width="100"
           height="100"
       />
       <br />
-      <b>Kat1016#1942</b> <br />
-      <font size="3">Game Staff & Policies Creator</font></label
+      <b>Tom <font size="1">(YONDUCHA#0593)</font>
+      </b> <br />
+      <font size="3">Server Trial Moderator</font></label
     ><br />
     <img
         src="https://cdn.indianacoa.com/staff_images/star.jpg"
@@ -68,7 +68,7 @@
         height="100"
     /><br />
     <b><a href="https://github.com/galactic-donuts" style="color:orange">Star</a> </b><br />
-    <font size="3">ICOA Developer & Server Trial Moderator</font>
+    <font size="3">ICOA Developer & Server Moderator</font>
     <!-- Game Staff -->
     <hr />
     <h1>

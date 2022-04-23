@@ -14,7 +14,7 @@
     </h1>
     <p>
       We're a community dedicated to bring people together regardless of
-      differences.
+      differences.<font-awesome-icon icon=”hat-wizard” />
     </p>
 
     <p>Join our community: <a href="https://discord.gg/5AUD5g8kgR">here</a>.</p>
@@ -37,10 +37,6 @@ export default {
     Script.setAttribute(
       "src",
       "https://ross.indianacoa.com/devops/js/typer.js"
-    );
-    Script.setAttribute(
-      "src",
-      "https://cdnjs.cloudflare.com/ajax/libs/limonte-sweetalert2/8.11.8/sweetalert2.all.min.js"
     );
     document.head.appendChild(Script);
   },

@@ -1,16 +1,18 @@
 <template>
+  <div class="topnav">
   <div class="outer-header">
     <div class="header">
       <div class="header-side">
-        |<router-link to="/">Home</router-link> |
-        <router-link to="/team">The Team</router-link>|
-        <router-link to="/about">About</router-link>|
-        <router-link to="/events">Events</router-link>|
+        |<router-link to="/">Home</router-link>
+        <router-link to="/team">The Team</router-link>
+        <router-link to="/about">About</router-link>
+        <router-link to="/events">Events</router-link>
 <!--        <router-link to="/opportunities">Opportunities</router-link>|-->
-        <a href="https://status.indianacoa.com">Status</a>|
+        <a href="https://status.indianacoa.com">Status</a>
 <!--         <router-link to="/contact">Contact Us</router-link>-->
       </div>
     </div>
+  </div>
   </div>
   <pre>We are a unification of the state of Indiana. </pre>
 </template>
@@ -60,4 +62,7 @@ export default {
 .active {
   background-color: #04aa6d;
 }
+
+
+
 </style>
