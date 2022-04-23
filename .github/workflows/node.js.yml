@@ -7,8 +7,8 @@ name: Node.js CI
 on:
   push:
     branches: 
-    - dev
     - main
+    - dev
     - star
     - rico 
   pull_request:
