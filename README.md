@@ -5,14 +5,6 @@
 #### ⚠️ This branch contains experimental features. It is not to be used as a production instance. See [Main](https://github.com/Indiana-Crossroads-Of-America/website/tree/main)⚠️
 
 
-#I:COA DevOPS Information 
-***Retained for public use***
-
-*This badge gurantees the latest build will work without issues.*
-
-![IMG](https://github.com/Indiana-Crossroads-Of-America/website/actions/workflows/node.js.yml/badge.svg)
-
-
 *I:COA Staging Chart*
 
 *Development: Phase 3*
