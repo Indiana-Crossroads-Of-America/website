@@ -14,12 +14,11 @@
     </h1>
     <p>
       We're a community dedicated to bring people together regardless of
-      differences.<font-awesome-icon icon=”hat-wizard” />
+      differences.<font-awesome-icon icon="”hat-wizard”" />
     </p>
 
     <p>Join our community: <a href="https://discord.gg/5AUD5g8kgR">here</a>.</p>
-    <i>(You're Always welcomed to I:COA)</i>
-    <pre><b>We're Hiring (volunteers)</b>, see our current <router-link to="/opportunities">opportunities</router-link>.</pre>
+    <pre><b>We need volunteers</b>, see our current <router-link to="/opportunities">opportunities</router-link>.</pre>
     <br />
     <video width="800" height="650" controls>
       <source
