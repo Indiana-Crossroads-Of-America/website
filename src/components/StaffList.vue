@@ -2,8 +2,7 @@
   <hr class="coa" />
   <div class="stafflist">
     <h1>Operations at Indiana: Crossroads of America.</h1>
-    <pre><font size="3">The internal team that keeps I:COA running day and night.</font>
-    <font size="3" color="blue"> Profiles showing <font color="red">&#128736;</font> are Team Leads.</font></pre>
+    <pre><font size="3">The internal team that keeps I:COA running day and night.</font></pre>
     <hr />
     <h1>Leadership</h1>
     <pre><font size="3">Individuals tasked with Team Management and Community Oversight.</font></pre>
@@ -14,7 +13,7 @@
         width="100"
         height="100"
       />
-      <br /><b>JulesBeHere &#128736;</b>
+      <br /><b><font color="red">JulesBeHere &#128736;</font></b>
       <!-- <br /><b><a href="https://github.com/JulianEPrice" style="color:red">JulesBeHere &#128736;</a></b> -->
       <br />
       <font size="3">Community Founder</font></label

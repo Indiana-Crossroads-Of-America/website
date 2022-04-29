@@ -6,7 +6,7 @@
       <span
         class="typer"
         id="main"
-        data-words="Greatness.,Diversity., Your New Home., Indiana."
+        data-words="Indiana., Diversity., The Digital Era.,Inclusiveness."
         data-delay="100"
         data-deleteDelay="1000"
       ></span>
