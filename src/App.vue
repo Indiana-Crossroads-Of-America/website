@@ -1,5 +1,10 @@
 <template>
-
+  <meta
+    name="description"
+    content="Indiana: Crossroads of America is primarily a Discord community that's
+      dedicated to bringing the people of Indiana together. We do this
+      regardless of differences. If you're from Indiana, this community welcomes you."
+  />
   <link
     rel="stylesheet"
     href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
@@ -34,13 +39,7 @@ export default {
     );
   },
 };
-
 </script>
-
-
-
-
-
 
 <!-- ALERT CSS -->
 <style>

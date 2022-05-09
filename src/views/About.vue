@@ -4,7 +4,7 @@
     <p>
       Indiana: Crossroads of America is primarily a Discord community that's
       dedicated to bringing the people of Indiana together. We do this
-      regardless of differences, sexual orientation, religion or other factors.
+      regardless of differences.
     </p>
     <h1>Why did we create this community?</h1>
     <p>
