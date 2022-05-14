@@ -38,6 +38,7 @@ export default {
       "https://ross.indianacoa.com/devops/js/typer.js"
     );
     document.head.appendChild(Script);
+    document.title = "I:COA | Home"; // title
   },
 };
 </script>

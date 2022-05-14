@@ -27,12 +27,14 @@ export default {
   components: {
     Header,
   },
-  created() {
-    document.title = "Indiana Crossroads - Home";
-    console.log(
-      "I:COA Community Site Project \n over 300 lines of code and counting. \n ------------------------------ \n Hey You! Yea you! We have Developer Volunteer Opportunities! \n We are seeking DevOP roles for CSS Designers, HTML Developers, and JavaScript (VUEJS) Developers! Have what it takes? See https://indianacoa.com/opportunities and work with some great people."
-    );
-  },
+  mounted() {
+  let Script = document.createElement("script");
+  Script.setAttribute(
+  "src",
+  "https://ross.indianacoa.com/devops/js/alert.js"
+  );
+  document.head.appendChild(Script);
+},
 };
 
 </script>
