@@ -11,4 +11,4 @@
 
 ## Reporting a Vulnerability
 
-You can open a issue by visiting our [Discussions](https://github.com/Indiana-Crossroads-Of-America/website/discussions) page.
+You can open an issue by visiting our [Discussions](https://github.com/Indiana-Crossroads-Of-America/website/discussions) page.

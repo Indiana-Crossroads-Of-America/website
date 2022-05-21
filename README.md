@@ -1,4 +1,4 @@
-> Trying to experiement with I:COA? [See our official documentation.](https://github.com/Indiana-Crossroads-Of-America/indiana-crossroads-of-america/wiki)
+> Trying to experiment with I:COA? [See our official documentation.](https://github.com/Indiana-Crossroads-Of-America/indiana-crossroads-of-america/wiki)
 
 ### Branch: Dev
 
@@ -9,11 +9,7 @@
 
 *Development: Phase 3*
 
-| Version | Status   |
-|---------|----------|
-| 1       | Done ✅   |
-| 2       | Done ✅   |
-| 3       | IN_PROG  |
+Dev Build > GitHub (Dev Branch) > Dev Site (Rigorous Testing) > Edit Broken Code > Github (Main) > Build (Main Site)
 
 Version 3 is experimenting with styling.
 

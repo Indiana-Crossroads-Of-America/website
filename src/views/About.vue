@@ -1,4 +1,6 @@
 <template>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
   <div class="about">
     <h1>What is Indiana: Crossroads of America?</h1>
     <p>
@@ -7,11 +9,11 @@
       regardless of differences.
     </p>
     <h1>Why did we create this community?</h1>
-    <p>
+    <div class="b">
       The Indiana: Crossroads of America community was founded when its creator
       realized such a community could help bring people from the state together,
       especially in this relatively new digital era.
-    </p>
+      </div>
   </div>
 
 
@@ -19,4 +21,13 @@
 <script>
 document.title = "I:COA | About";
 
+
 </script>
+
+
+<style>
+div.b {
+  word-wrap: break-word;
+}
+
+</style>
