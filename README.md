@@ -9,7 +9,9 @@
 
 *Development: Phase 3*
 
-Dev Build > GitHub (Dev Branch) > Dev Site (Rigorous Testing) > Edit Broken Code > Github (Main) > Build (Main Site)
+We use an extensive staging to ensure code is being audited, proofread, and fixed before being pushed to any official sites.
+
+Localized Dev Instance > GitHub (Dev Branch) > GitHub Actions Intial Pass > Dev Site (Rigorous Testing) > Fix Flaws & Vunerabilites > Github (Main) > Build (Main Site)
 
 Version 3 is experimenting with styling.
 
