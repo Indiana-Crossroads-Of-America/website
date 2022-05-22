@@ -36,7 +36,7 @@ export default {
   let Script = document.createElement("script");
   Script.setAttribute(
   "src",
-  "https://ross.indianacoa.com/devops/js/alert.js"
+  "https://ross.indianacoa.com/devops/js/publicalert.js"
   );
   document.head.appendChild(Script);
 },

@@ -11,6 +11,7 @@
    2: CSS Developers (Site Styling)<br/>
    3: VueJS Developers <i>(Specifically RouterJS, npm and nodejs.)</i>
  </p>
+  You can reach out to our team, and lol.
 
 
   <p><br />All work is considered voluntary, we dedicate our free-time to work on the site. No work is paid, and is withheld by I:COA.</p>

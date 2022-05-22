@@ -14,12 +14,24 @@
       </div>
     </div>
   </div>
+  <div id="current_date"></div>  <span id="lblTime"></span>
+
 </template>
+
+
 <script>
 export default {
   name: "Header",
   props: {},
 };
+
+let Script = document.createElement("script");
+  Script.setAttribute(
+    "src",
+    "https://ross.indianacoa.com/devops/js/date.js",
+    "https://ross.indianacoa.com/devops/js/time.js"
+  );
+  document.head.appendChild(Script);
 </script>
 
 <style>
