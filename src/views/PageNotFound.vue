@@ -18,7 +18,7 @@ export default {
     let Script = document.createElement("script");
     Script.setAttribute(
       "src",
-      "https://ross.indianacoa.com/devops/js/url.js"
+      "https://api.indianacoa.com/js/url.js"
     );
     document.head.appendChild(Script);
     document.title = "I:COA - 404";
