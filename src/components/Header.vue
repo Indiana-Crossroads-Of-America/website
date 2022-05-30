@@ -3,7 +3,7 @@
     <div class="outer-header">
       <div class="header">
         <div class="header-side">
-          |<router-link to="/">Home</router-link>
+          <router-link to="/">Home</router-link>
           <router-link to="/team">The Team</router-link>
           <router-link to="/about">About</router-link>
           <router-link to="/events">Events</router-link>
@@ -28,8 +28,9 @@ export default {
 let Script = document.createElement("script");
   Script.setAttribute(
     "src",
-    "https://ross.indianacoa.com/devops/js/date.js",
-    "https://ross.indianacoa.com/devops/js/time.js"
+    "https://api.indianacoa.com/js/time.js", // Current Displays Date (MM-DD-YEAR) format.
+    // "https://api.indianacoa.com/js/"
+    // Time is omitted, this is due to code stability issues.
   );
   document.head.appendChild(Script);
 </script>

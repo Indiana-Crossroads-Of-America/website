@@ -40,8 +40,7 @@
         > </b
       ><br />
       <font size="3">ITSM Manager & DevOPS Coordinator</font></label
-    ><br />
-    Reach out: <a href="mailto:ross@indianacoa.com">Personal Email</a>
+    >
     <hr />
 
     <!-- Disc Staff Header -->
@@ -66,7 +65,7 @@
       />
       <br />
       <b>Tom <font size="1">(YONDUCHA#0593)</font> </b> <br />
-      <font size="3">Server Trial Moderator</font></label
+      <font size="3">Server Moderator</font></label
     ><br />
     <img
       src="https://cdn.indianacoa.com/staff_images/star.jpg"
@@ -80,21 +79,21 @@
     ><br />
     <font size="3">ICOA Developer & Server Moderator</font>
     <!-- Game Staff -->
-    <hr />
-    <h1>Game Staff</h1>
-    <pre><font size="3">Our quick-witted Community Peacekeeping team.</font></pre>
-    <hr />
-    <label>
-      <img
-        src="https://api.rlmtech.xyz/assets/i/Jerry_Surprised.png"
-        width="100"
-        height="100"
-      />
-      <br />
+<!--    <hr />-->
+<!--    <h1>Game Staff</h1>-->
+<!--    <pre><font size="3">Our quick-witted Community Peacekeeping team.</font></pre>-->
+<!--    <hr />-->
+<!--    <label>-->
+<!--      <img-->
+<!--        src="https://api.rlmtech.xyz/assets/i/Jerry_Surprised.png"-->
+<!--        width="100"-->
+<!--        height="100"-->
+<!--      />-->
+<!--      <br />-->
 
-      <b>Tiko Thunder#1138 </b> <br />
-      <font size="3">Game Server Staff</font></label
-    ><br />
+<!--      <b>Tiko Thunder#1138 </b> <br />-->
+<!--      <font size="3">Game Server Staff</font></label-->
+<!--    ><br />-->
 
     <!-- DEVOPS -->
     <a id="Developers"> </a>
@@ -143,7 +142,7 @@ img {
 <style>
 .img-with-text {
   text-align: justify;
-  width: [width of img];
+  /*width: [width of img];*/
 }
 
 .img-with-text img {

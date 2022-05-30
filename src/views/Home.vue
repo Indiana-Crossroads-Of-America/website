@@ -21,7 +21,7 @@
     <video width="800" height="650" controls>
       <source
         src="https://icoa.s3.us-west-2.amazonaws.com/videos/disc_guide.mp4"
-        type="video/mp4"
+        type="video/mp4" controls
       />
     </video>
   </div>
@@ -33,7 +33,7 @@ export default {
     let Script = document.createElement("script");
     Script.setAttribute(
       "src",
-      "https://ross.indianacoa.com/devops/js/typer.js"
+      "https://api.indianacoa.com/js/typer.js"
     );
     document.head.appendChild(Script);
     document.title = "I:COA | Home"; // title

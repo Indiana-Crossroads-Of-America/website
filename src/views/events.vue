@@ -13,7 +13,7 @@ export default {
     let Script = document.createElement("script");
     Script.setAttribute(
       "src",
-      "https://ross.indianacoa.com/devops/js/date.js"
+      "https://api.indianacoa.com/js/date.js"
     );
     document.head.appendChild(Script);
     document.title = "I:COA | Home"; // title
