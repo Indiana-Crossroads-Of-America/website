@@ -2,8 +2,7 @@
   <hr class="coa" />
   <div class="stafflist">
     <h1>Operations at Indiana: Crossroads of America.</h1>
-    <pre><font size="3">The internal team that keeps I:COA running day and night.</font>
-    <font size="3" color="blue"> Profiles showing <font color="red">&#128736;</font> are Team Leads.</font></pre>
+    <pre><font size="3">The internal team that keeps I:COA running day and night.</font></pre>
     <hr />
     <h1>Leadership</h1>
     <pre><font size="3">Individuals tasked with Team Management and Community Oversight.</font></pre>
@@ -14,7 +13,7 @@
         width="100"
         height="100"
       />
-      <br /><b>JulesBeHere &#128736;</b>
+      <br /><b><font color="red">JulesBeHere &#128736;</font></b>
       <!-- <br /><b><a href="https://github.com/JulianEPrice" style="color:red">JulesBeHere &#128736;</a></b> -->
       <br />
       <font size="3">Community Founder</font></label
@@ -41,8 +40,7 @@
         > </b
       ><br />
       <font size="3">ITSM Manager & DevOPS Coordinator</font></label
-    ><br />
-    Reach out: <a href="mailto:ross@indianacoa.com">Personal Email</a>
+    >
     <hr />
 
     <!-- Disc Staff Header -->
@@ -67,7 +65,7 @@
       />
       <br />
       <b>Tom <font size="1">(YONDUCHA#0593)</font> </b> <br />
-      <font size="3">Server Trial Moderator</font></label
+      <font size="3">Server Moderator</font></label
     ><br />
     <img
       src="https://cdn.indianacoa.com/staff_images/star.jpg"
@@ -81,21 +79,21 @@
     ><br />
     <font size="3">ICOA Developer & Server Moderator</font>
     <!-- Game Staff -->
-    <hr />
-    <h1>Game Staff</h1>
-    <pre><font size="3">Our quick-witted Community Peacekeeping team.</font></pre>
-    <hr />
-    <label>
-      <img
-        src="https://api.rlmtech.xyz/assets/i/Jerry_Surprised.png"
-        width="100"
-        height="100"
-      />
-      <br />
+<!--    <hr />-->
+<!--    <h1>Game Staff</h1>-->
+<!--    <pre><font size="3">Our quick-witted Community Peacekeeping team.</font></pre>-->
+<!--    <hr />-->
+<!--    <label>-->
+<!--      <img-->
+<!--        src="https://api.rlmtech.xyz/assets/i/Jerry_Surprised.png"-->
+<!--        width="100"-->
+<!--        height="100"-->
+<!--      />-->
+<!--      <br />-->
 
-      <b>Tiko Thunder#1138 </b> <br />
-      <font size="3">Game Server Staff</font></label
-    ><br />
+<!--      <b>Tiko Thunder#1138 </b> <br />-->
+<!--      <font size="3">Game Server Staff</font></label-->
+<!--    ><br />-->
 
     <!-- DEVOPS -->
     <a id="Developers"> </a>
@@ -129,6 +127,7 @@ export default {
   props: {
     msg: String,
   },
+
 };
 </script>
 
@@ -143,7 +142,7 @@ img {
 <style>
 .img-with-text {
   text-align: justify;
-  width: [width of img];
+  /*width: [width of img];*/
 }
 
 .img-with-text img {

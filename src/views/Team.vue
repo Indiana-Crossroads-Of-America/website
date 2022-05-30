@@ -9,7 +9,10 @@ export default {
   name: "Staff",
   components: {
     StaffList,
+
   },
 };
+
+document.title = "I:COA | Team";
 
 </script>

@@ -1,5 +1,10 @@
 <template>
-
+  <meta
+    name="description"
+    content="Indiana: Crossroads of America is primarily a Discord community that's
+      dedicated to bringing the people of Indiana together. We do this
+      regardless of differences. If you're from Indiana, this community welcomes you."
+  />
   <link
     rel="stylesheet"
     href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
@@ -27,20 +32,17 @@ export default {
   components: {
     Header,
   },
-  created() {
-    document.title = "Indiana Crossroads - Home";
-    console.log(
-      "I:COA Community Site Project \n over 300 lines of code and counting. \n ------------------------------ \n Hey You! Yea you! We have Developer Volunteer Opportunities! \n We are seeking DevOP roles for CSS Designers, HTML Developers, and JavaScript (VUEJS) Developers! Have what it takes? See https://indianacoa.com/opportunities and work with some great people."
-    );
-  },
+  mounted() {
+  let Script = document.createElement("script");
+  Script.setAttribute(
+  "src",
+  "https://api.indianacoa.com/js/publicalert.js"
+
+  );
+  document.head.appendChild(Script);
+},
 };
-
 </script>
-
-
-
-
-
 
 <!-- ALERT CSS -->
 <style>
