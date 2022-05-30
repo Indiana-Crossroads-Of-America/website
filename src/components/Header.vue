@@ -28,7 +28,7 @@ export default {
 let Script = document.createElement("script");
   Script.setAttribute(
     "src",
-    "https://api.indianacoa.com/js/time.js", // Current Displays Date (MM-DD-YEAR) format.
+    "https://api.indianacoa.com/js/date.js", // Current Displays Date (MM-DD-YEAR) format.
     // "https://api.indianacoa.com/js/"
     // Time is omitted, this is due to code stability issues.
   );
