@@ -1,5 +1,4 @@
+⚠️ # LEG-PROJ; NO LONGER BUILT OR MAINTAINED.⚠️
 
-### Branch: Main
+### This project was collectively retired as of 11/2024.
 
-
->#### Want to develop for I:COA? [Reach out to learn more.](mailto:join@indianacoa.com)
